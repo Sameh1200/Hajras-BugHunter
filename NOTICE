@@ -1,0 +1,7 @@
+Hajras-BugHunter
+Copyright (c) Hajras / Sameh1200
+
+This project is a rebranded and modified distribution of upstream work originally published as Claude-BugHunter.
+Claude plugin components were removed. Branding, paths, and product references were rewritten to Hajras identity.
+
+Upstream license terms continue to apply to retained content; see LICENSE and LICENSE-CONTENT.
